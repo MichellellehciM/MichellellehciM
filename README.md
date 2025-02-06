@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/b8c57c4d-615d-404a-8b3a-a58824d5fb89.svg)](https://wakatime.com/@b8c57c4d-615d-404a-8b3a-a58824d5fb89)
 <!--
 **MichellellehciM/MichellellehciM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
